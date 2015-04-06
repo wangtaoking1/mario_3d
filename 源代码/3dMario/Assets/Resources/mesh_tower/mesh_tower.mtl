@@ -1,0 +1,11 @@
+# Created on: Wed Sep 03 13:29:44 2008 0x07226cb0
+
+newmtl NoName,1
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 0.996078
+map_bump tower_normalmap.BMP 
+map_Kd tower_texture.BMP 
+# End
